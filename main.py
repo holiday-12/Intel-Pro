@@ -1,4 +1,5 @@
 import streamlit as st
+import sklearn
 
 # <---------- Pages Setup ---------->
 about_page1 = st.Page(
